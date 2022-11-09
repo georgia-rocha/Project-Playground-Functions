@@ -1,5 +1,5 @@
 # Objetivo
-Desenvolver códigos de funções que resolvem problemas com respostas pré-determinadas e passem nos testes propotos pela Trybe.
+Desenvolver códigos de funções que resolvem problemas com respostas pré-determinadas e passem nos testes propostos pela Trybe.
 
 ## Requisitos Obrigatórios
 - [x] 1 - Crie uma função usando o operador &&
