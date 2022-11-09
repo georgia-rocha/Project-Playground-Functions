@@ -1,4 +1,5 @@
-# Boas-vindas ao repositório do Projeto Playground Functions!
+# Objetivo
+Desenvolver códigos de funções que resolvem problemas com respostas pré-determinadas e passem nos testes propotos pela Trybe.
 
 - [x] 1 - Crie uma função usando o operador &&
 
