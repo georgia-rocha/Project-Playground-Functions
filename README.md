@@ -1,6 +1,7 @@
 # Objetivo
 Desenvolver códigos de funções que resolvem problemas com respostas pré-determinadas e passem nos testes propotos pela Trybe.
 
+## Requisitos Obrigatórios
 - [x] 1 - Crie uma função usando o operador &&
 
 <details>
@@ -328,7 +329,7 @@ Por exemplo, se a função recebe os parâmetros `['React', 'Jest', 'HTML', 'CSS
 </details>
 
 
-### Requisitos Bônus
+## Requisitos Bônus
 
 - [x] 11 - Crie uma função de número de telefone
 
